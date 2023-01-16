@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alemd01" alt="alemd01" /></a> </p>
 
-- 📝 Regularmente escribo artículos en [mi blog](blog.alejandro-montes.es)
+- 📝 Regularmente escribo artículos en [mi blog](https://blog.alejandro-montes.es)
 
 - 📫 Como contactarme: **aaleemd11@gmail.com**
 
