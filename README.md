@@ -11,7 +11,7 @@
 
 <h3 align="left">Encuéntrame en:</h3>
 <p align="left">
-<a href="www.linkedin.com/es/alejandro-montes-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-montes-delgado/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/es/alejandro-montes-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-montes-delgado/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
